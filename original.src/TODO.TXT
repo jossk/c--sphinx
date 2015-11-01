@@ -1,0 +1,11 @@
+BREAK nn в конце switch уничтожается??
+contionue in switch not ready
+switch(){
+	for(;;)
+		IF(AL==0)CONTINUE;
+}
+
+Добавить регистры с float значениями
+
+Указание регистра для this
+Указание о неизмености регистра this
